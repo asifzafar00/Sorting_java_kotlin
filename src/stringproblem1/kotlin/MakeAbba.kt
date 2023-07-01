@@ -1,12 +1,10 @@
-package stringproblem1;
+package stringproblem1.kotlin
 
-public class MakeAbba {
-    public static void main(String[] args) {
-        System.out.println( makeAbba("What", "Up"));
-    }
+fun main() {
+    println(makeAbba("Hi", "Bye"))
+}
 
-
-    /*
+/*
 
     Given two strings, a and b, return the result of putting
     them together in the order abba, e.g. "Hi" and "Bye" returns "HiByeByeHi".
@@ -18,8 +16,6 @@ public class MakeAbba {
 
     */
 
-    public static String makeAbba(String a, String b) {
-        return a.concat(b).concat(b).concat(a);
-    }
-
+fun makeAbba(a: String, b: String): String {
+    return a.plus(b).plus(b).plus(a)
 }
