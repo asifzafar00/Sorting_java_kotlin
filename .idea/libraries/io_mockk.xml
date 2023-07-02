@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="io.mockk" type="repository">
+    <properties maven-id="io.mockk:mockk:1.13.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mockk/mockk/1.13.1/mockk-1.13.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/mockk/mockk-dsl/1.13.1/mockk-dsl-1.13.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/mockk/mockk-agent/1.13.1/mockk-agent-1.13.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/mockk/mockk-agent-api/1.13.1/mockk-agent-api-1.13.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/mockk/mockk-core/1.13.1/mockk-core-1.13.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.10/kotlin-stdlib-jdk8-1.7.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.7.10/kotlin-stdlib-1.7.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.10/kotlin-stdlib-common-1.7.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.7.10/kotlin-stdlib-jdk7-1.7.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
